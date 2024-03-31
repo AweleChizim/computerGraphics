@@ -1,0 +1,15 @@
+﻿  pyramid.cpp
+C:\Users\chizi\OneDrive\Documents\Repositories\computerGraphics\PyramidCreation\pyramid.cpp(10,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\chizi\OneDrive\Documents\Repositories\computerGraphics\PyramidCreation\pyramid.cpp(10,60): warning C4305: 'initializing': truncation from 'double' to 'float'
+  renderer3D.cpp
+C:\Users\chizi\OneDrive\Documents\Repositories\computerGraphics\PyramidCreation\renderer3D.cpp(26,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\chizi\OneDrive\Documents\Repositories\computerGraphics\PyramidCreation\renderer3D.cpp(26,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\chizi\OneDrive\Documents\Repositories\computerGraphics\PyramidCreation\renderer3D.cpp(26,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\chizi\OneDrive\Documents\Repositories\computerGraphics\PyramidCreation\renderer3D.cpp(26,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\chizi\OneDrive\Documents\Repositories\computerGraphics\PyramidCreation\renderer3D.cpp(33,28): warning C4244: '=': conversion from '_Rep' to 'float', possible loss of data
+          with
+          [
+              _Rep=double
+          ]
+  Generating Code...
+  PyramidCreation.vcxproj -> C:\Users\chizi\OneDrive\Documents\Repositories\computerGraphics\PyramidCreation\x64\Debug\PyramidCreation.exe

@@ -1,0 +1,15 @@
+﻿  pyramidScaling.cpp
+C:\Users\chizi\OneDrive\Documents\My Work\C++\graphics\Projects\PyramidScaling\pyramidScaling.cpp(10,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\chizi\OneDrive\Documents\My Work\C++\graphics\Projects\PyramidScaling\pyramidScaling.cpp(10,60): warning C4305: 'initializing': truncation from 'double' to 'float'
+  renderer3D.cpp
+C:\Users\chizi\OneDrive\Documents\My Work\C++\graphics\Projects\PyramidScaling\renderer3D.cpp(62,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\chizi\OneDrive\Documents\My Work\C++\graphics\Projects\PyramidScaling\renderer3D.cpp(62,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\chizi\OneDrive\Documents\My Work\C++\graphics\Projects\PyramidScaling\renderer3D.cpp(62,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\chizi\OneDrive\Documents\My Work\C++\graphics\Projects\PyramidScaling\renderer3D.cpp(62,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\chizi\OneDrive\Documents\My Work\C++\graphics\Projects\PyramidScaling\renderer3D.cpp(69,28): warning C4244: '=': conversion from '_Rep' to 'float', possible loss of data
+          with
+          [
+              _Rep=double
+          ]
+  Generating Code...
+  PyramidScaling.vcxproj -> C:\Users\chizi\OneDrive\Documents\My Work\C++\graphics\Projects\PyramidScaling\x64\Debug\PyramidScaling.exe

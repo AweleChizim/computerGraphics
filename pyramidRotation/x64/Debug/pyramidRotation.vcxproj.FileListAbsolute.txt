@@ -1,0 +1,2 @@
+C:\Users\chizi\OneDrive\Documents\My Work\C++\graphics\Projects\pyramidRotation\x64\Debug\pyramidRotation.exe
+C:\Users\chizi\OneDrive\Documents\Repositories\computerGraphics\pyramidRotation\x64\Debug\pyramidRotation.exe

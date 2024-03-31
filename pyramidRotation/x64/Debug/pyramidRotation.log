@@ -1,0 +1,15 @@
+﻿  pyramidrotation.cpp
+C:\Users\chizi\OneDrive\Documents\Repositories\computerGraphics\pyramidRotation\pyramidrotation.cpp(10,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\chizi\OneDrive\Documents\Repositories\computerGraphics\pyramidRotation\pyramidrotation.cpp(10,60): warning C4305: 'initializing': truncation from 'double' to 'float'
+  renderer3D.cpp
+C:\Users\chizi\OneDrive\Documents\Repositories\computerGraphics\pyramidRotation\renderer3D.cpp(30,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\chizi\OneDrive\Documents\Repositories\computerGraphics\pyramidRotation\renderer3D.cpp(30,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\chizi\OneDrive\Documents\Repositories\computerGraphics\pyramidRotation\renderer3D.cpp(30,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\chizi\OneDrive\Documents\Repositories\computerGraphics\pyramidRotation\renderer3D.cpp(30,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\chizi\OneDrive\Documents\Repositories\computerGraphics\pyramidRotation\renderer3D.cpp(37,28): warning C4244: '=': conversion from '_Rep' to 'float', possible loss of data
+          with
+          [
+              _Rep=double
+          ]
+  Generating Code...
+  pyramidRotation.vcxproj -> C:\Users\chizi\OneDrive\Documents\Repositories\computerGraphics\pyramidRotation\x64\Debug\pyramidRotation.exe
