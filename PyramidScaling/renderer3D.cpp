@@ -19,17 +19,16 @@ void renderer3D::render()
 	SDL_RenderClear(SDL_render);
 	SDL_SetRenderDrawColor(SDL_render, 255, 192, 203, SDL_ALPHA_OPAQUE);
 
-	/*if (sx == 1.5)
+	/*if ((sx <= 1.5) && (sx >= 0.1))
 	{
-		sx = 0.5;
-		sy = 0.5;
-		SDL_Delay(500);
+		sx += -1 * DeltaTime;
+		sy += -1 * DeltaTime;
 	}
-	else if (sx == 0.5)
+	else if (sx <= 0.1)
 	{
 		sx = 1.5;
 		sy = 1.5;
-		SDL_Delay(500);
+
 	}*/
 	/*if ((sx <= 1.5) && (sx >= -1.5))
 	{
@@ -41,18 +40,19 @@ void renderer3D::render()
 		sx = 1.5;
 		sy = 1.5;
 	}*/
-	if ((sx <= 1.5) && (sx >= 0.1))
+	if (sx == 1.5)
 	{
-		sx += -1 * DeltaTime;
-		sy += -1 * DeltaTime;
+		sx = 0.5;
+		sy = 0.5;
+		SDL_Delay(500);
 	}
-	else if (sx <= 0.1)
+	else if (sx == 0.5)
 	{
 		sx = 1.5;
 		sy = 1.5;
-
+		SDL_Delay(500);
 	}
-
+	
 	for (auto& edge : edges) {
 		Point3D rotatedPointStart = scaling(points[edge.start]);
 		Point3D rotatedPointEnd = scaling(points[edge.end]);

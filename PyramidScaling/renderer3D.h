@@ -22,6 +22,7 @@ private:
 	float DeltaTime = 0;
 	float sx = 1.5;
 	float sy = 1.5;
+	bool decreasing = true;
 	
 	int WindowSizeX;
 	int WindowSizeY;

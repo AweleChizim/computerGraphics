@@ -1,1 +1,2 @@
 C:\Users\chizi\OneDrive\Documents\My Work\C++\graphics\Projects\PyramidScaling\x64\Debug\PyramidScaling.exe
+C:\Users\chizi\OneDrive\Documents\Repositories\computerGraphics\PyramidScaling\x64\Debug\PyramidScaling.exe
