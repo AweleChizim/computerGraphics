@@ -1,3 +1,8 @@
-﻿  glad.c
-  Main.cpp
+﻿  Main.cpp
+C:\Users\chizi\OneDrive\Documents\Repositories\computerGraphics\Practice3\Main.cpp(29,31): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\chizi\OneDrive\Documents\Repositories\computerGraphics\Practice3\Main.cpp(29,31): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\chizi\OneDrive\Documents\Repositories\computerGraphics\Practice3\Main.cpp(30,30): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\chizi\OneDrive\Documents\Repositories\computerGraphics\Practice3\Main.cpp(30,30): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\chizi\OneDrive\Documents\Repositories\computerGraphics\Practice3\Main.cpp(31,33): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\chizi\OneDrive\Documents\Repositories\computerGraphics\Practice3\Main.cpp(31,33): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
   Practice3.vcxproj -> C:\Users\chizi\OneDrive\Documents\Repositories\computerGraphics\Practice3\x64\Debug\Practice3.exe
