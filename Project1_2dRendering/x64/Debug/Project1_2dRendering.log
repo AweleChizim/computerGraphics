@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\chizi\OneDrive\Documents\Repositories\computerGraphics\Project1_2dRendering\main.cpp(16,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Project1_2dRendering.vcxproj -> C:\Users\chizi\OneDrive\Documents\Repositories\computerGraphics\Project1_2dRendering\x64\Debug\Project1_2dRendering.exe

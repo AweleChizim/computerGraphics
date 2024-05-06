@@ -1,0 +1,2 @@
+C:\Users\chizi\OneDrive\Documents\My Work\C++\graphics\Projects\Project1_2dRendering\x64\Debug\Project1_2dRendering.exe
+C:\Users\chizi\OneDrive\Documents\Repositories\computerGraphics\Project1_2dRendering\x64\Debug\Project1_2dRendering.exe
