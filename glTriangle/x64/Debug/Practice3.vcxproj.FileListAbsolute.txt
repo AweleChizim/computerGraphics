@@ -1,0 +1,3 @@
+C:\Users\chizi\OneDrive\Documents\My Work\C++\graphics\Projects\Practice3\x64\Debug\Practice3.exe
+C:\Users\chizi\OneDrive\Documents\Repositories\computerGraphics\Practice3\x64\Debug\Practice3.exe
+C:\Users\chizi\OneDrive\Documents\Repositories\computerGraphics\glTriangle\x64\Debug\Practice3.exe

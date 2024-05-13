@@ -1,0 +1,2 @@
+C:\Users\chizi\OneDrive\Documents\My Work\C++\graphics\Projects\pyramidGL\x64\Debug\pyramidGL.exe
+C:\Users\chizi\OneDrive\Documents\Repositories\computerGraphics\pyramidGL\x64\Debug\pyramidGL.exe
