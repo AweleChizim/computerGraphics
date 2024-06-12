@@ -1,0 +1,2 @@
+C:\Users\chizi\OneDrive\Documents\My Work\C++\graphics\Projects\CAProject\x64\Debug\CAProject.exe
+C:\Users\chizi\OneDrive\Documents\Repositories\computerGraphics\CAProjectSDL\x64\Debug\CAProject.exe
