@@ -1,2 +1,12 @@
-﻿  Main.cpp
-  CA2project.vcxproj -> C:\Users\chizi\OneDrive\Documents\My Work\C++\graphics\Projects\CA2project\x64\Debug\CA2project.exe
+﻿  Camera.cpp
+  EBO.cpp
+  Main.cpp
+  shaderClass.cpp
+  stb.cpp
+  Texture.cpp
+  VAO.cpp
+C:\Users\chizi\OneDrive\Documents\Repositories\computerGraphics\CAProjectOpenGL\VAO.cpp(13,63): warning C4244: 'argument': conversion from 'GLsizeiptr' to 'GLsizei', possible loss of data
+  VBO.cpp
+  Generating Code...
+  glad.c
+  CA2project.vcxproj -> C:\Users\chizi\OneDrive\Documents\Repositories\computerGraphics\CAProjectOpenGL\x64\Debug\CA2project.exe

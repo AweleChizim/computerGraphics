@@ -1,1 +1,2 @@
 C:\Users\chizi\OneDrive\Documents\My Work\C++\graphics\Projects\CA2project\x64\Debug\CA2project.exe
+C:\Users\chizi\OneDrive\Documents\Repositories\computerGraphics\CAProjectOpenGL\x64\Debug\CA2project.exe

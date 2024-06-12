@@ -1,3 +1,1 @@
-﻿  main.cpp
-C:\Users\chizi\OneDrive\Documents\Repositories\computerGraphics\CAProjectSDL\main.cpp(16,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-  CAProject.vcxproj -> C:\Users\chizi\OneDrive\Documents\Repositories\computerGraphics\CAProjectSDL\x64\Debug\CAProject.exe
+﻿  CAProject.vcxproj -> C:\Users\chizi\OneDrive\Documents\Repositories\computerGraphics\CAProjectSDL\x64\Debug\CAProject.exe
